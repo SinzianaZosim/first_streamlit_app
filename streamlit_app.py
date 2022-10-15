@@ -67,7 +67,7 @@ def get_fruit_load_list():
   
   
   #don't run past here 
-#streamlit.stop()
+streamlit.stop()
 
 
 
